@@ -1,0 +1,9 @@
+{
+  "method": "3-fold randomized search",
+  "parameters": {
+    "model__n_estimators": 100,
+    "model__min_samples_leaf": 2,
+    "model__max_depth": null
+  },
+  "cv_macro_f1": 0.6693522336722232
+}

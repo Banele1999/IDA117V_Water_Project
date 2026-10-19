@@ -1,0 +1,9 @@
+{
+  "comparator": "MLP",
+  "both_correct": 1989,
+  "champion_only_correct": 229,
+  "comparator_only_correct": 216,
+  "both_wrong": 805,
+  "exact_p_value": 0.5695039895706319,
+  "alpha": 0.05
+}

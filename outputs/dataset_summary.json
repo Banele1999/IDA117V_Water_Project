@@ -1,0 +1,21 @@
+{
+  "original_rows": 20927,
+  "eligible_rows": 16192,
+  "positive": 9545,
+  "negative": 6647,
+  "duplicate_rows": 0,
+  "features": [
+    "prov",
+    "geotype",
+    "hsg_maind",
+    "hsg_tenure",
+    "wat_drinkwat",
+    "san_toil",
+    "eng_access",
+    "swr_rub",
+    "head_age",
+    "head_sex",
+    "hholdsz",
+    "fin_inc_main"
+  ]
+}

@@ -1,0 +1,8 @@
+                 precision    recall  f1-score   support
+
+No interruption       0.64      0.49      0.56      1330
+   Interruption       0.70      0.81      0.75      1909
+
+       accuracy                           0.68      3239
+      macro avg       0.67      0.65      0.65      3239
+   weighted avg       0.68      0.68      0.67      3239
